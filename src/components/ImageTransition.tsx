@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+/*import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import  flechas  from "../img/doubleRow.svg";
 
@@ -49,3 +49,4 @@ export default function ImageTransition({
     </div>
   );
 }
+*/

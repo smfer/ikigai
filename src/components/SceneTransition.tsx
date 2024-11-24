@@ -1,3 +1,4 @@
+/*
 import React, { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 
@@ -6,7 +7,6 @@ interface SceneTransicion extends React.HtmlHTMLAttributes<HTMLDivElement> {
   img: string;
   onNextTransition: () => void;
 }
-
 export default function SceneTransicion({
   stepTransitioncurrent,
   visible,
@@ -37,3 +37,5 @@ const handleNextTransition => {
     </div>
   );
 }
+
+*/

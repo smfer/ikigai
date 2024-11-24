@@ -29,7 +29,7 @@ function App() {
   }, [stepScene]);
 
   useEffect(() => {
-    const scroll = (e: Event) => {
+    const scroll = () => {
       if (
         window.scrollY === window.innerHeight &&
         [2, 4, 8, 10].includes(stepScene)

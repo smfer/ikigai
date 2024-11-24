@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Midorima';
+    font-style: normal;
+    src: url("fonts/midorima.ttf") format('ttf');
+  }
+}
